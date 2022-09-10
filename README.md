@@ -1,2 +1,7 @@
-# Pixel-Art
-Projeto Pixel Art realizado durante meu percurso na Trybe.
+# Projeto Pixel-Art
+
+Um dos projetos desevolvidos durante a minha trajetória na Trybe!
+
+- Projeto composto de 11 requisitos obrigatórios e 3 bônus, totalizando 14 requisitos;
+- Alguns dos requisitos envolviam Web Storage;
+- Concluí o projeto com 100% de aprovação.
