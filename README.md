@@ -6,4 +6,4 @@ Um dos projetos desevolvidos durante a minha trajetória na Trybe!
 - Alguns dos requisitos envolviam Web Storage;
 - Concluí o projeto com 100% de aprovação.
 
-<small>OBS: Para rodar o projeto só rodar com o live server.</small>
+OBS: Para rodar o projeto só rodar com o live server.
